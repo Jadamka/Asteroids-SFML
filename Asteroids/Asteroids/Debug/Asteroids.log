@@ -1,0 +1,19 @@
+﻿  AsteroidManager.cpp
+  Ship.cpp
+C:\Users\adamk\Desktop\C++\SFML\Asteroids\Asteroids\Ship.cpp(20,41): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\adamk\Desktop\C++\SFML\Asteroids\Asteroids\Ship.cpp(109,66): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\adamk\Desktop\C++\SFML\Asteroids\Asteroids\Ship.cpp(109,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  Asteroids.vcxproj -> C:\Users\adamk\Desktop\C++\SFML\Asteroids\Debug\Asteroids.exe
