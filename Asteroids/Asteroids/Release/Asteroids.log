@@ -1,0 +1,37 @@
+﻿  Asteroid.cpp
+C:\Users\adamk\Desktop\C++\SFML\Asteroids\Asteroids\Asteroid.cpp(31,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\adamk\Desktop\C++\SFML\Asteroids\Asteroids\Asteroid.cpp(32,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\adamk\Desktop\C++\SFML\Asteroids\Asteroids\Asteroid.cpp(36,22): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\adamk\Desktop\C++\SFML\Asteroids\Asteroids\Asteroid.cpp(40,22): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  AsteroidManager.cpp
+  Ship.cpp
+C:\Users\adamk\Desktop\C++\SFML\Asteroids\Asteroids\Ship.cpp(20,41): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\adamk\Desktop\C++\SFML\Asteroids\Asteroids\Ship.cpp(109,66): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\adamk\Desktop\C++\SFML\Asteroids\Asteroids\Ship.cpp(109,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  main.cpp
+  Generating code
+  2 of 367 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Asteroids.vcxproj -> C:\Users\adamk\Desktop\C++\SFML\Asteroids\Release\Asteroids.exe
